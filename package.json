@@ -1,6 +1,6 @@
 {
 	"name": "got-nightly",
-	"version": "9.6.0",
+	"version": "9.6.1",
 	"private": false,
 	"description": "Simplified HTTP requests",
 	"license": "MIT",
