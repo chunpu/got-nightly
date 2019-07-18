@@ -1,6 +1,7 @@
 {
 	"name": "got",
 	"version": "9.6.0",
+	"private": false,
 	"description": "Simplified HTTP requests",
 	"license": "MIT",
 	"repository": "chunpu/got-nightly",
