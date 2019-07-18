@@ -1,5 +1,5 @@
 {
-	"name": "got",
+	"name": "got-nightly",
 	"version": "9.6.0",
 	"private": false,
 	"description": "Simplified HTTP requests",
